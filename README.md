@@ -1,14 +1,13 @@
 # A/B Testing Analysis of Digital Marketing Campaign
 
-This A/B Testing Project captures the outcomes of an A/B test run by marketing companies to evaluate whether advertising exposure influences purchasing behavior, and how exposure patterns vary among users.
 
 ## Overview
 
-The analysis explores conversion rates, optimal timing for ad delivery, and various factors affecting user engagement using statistical methods and data visualization in R.
+This A/B Testing Project captures the outcomes of an A/B test run by marketing companies to evaluate whether advertising exposure influences purchasing behavior, and how exposure patterns vary among users. The analysis explores conversion rates, optimal timing for ad delivery, and various factors affecting user engagement using statistical methods and data visualization in R. 
 
 ## Report
 
-The complete analysis is available in the [`report.html`](./report.html) file, which provides detailed explanations, statistical results, and visualizations of the A/B testing campaign.
+The complete analysis is available in the [HTML Report](./report.html) or [PDF Report](./A_B%20Testing%20Analysis%20of%20Digital%20Marketing%20Campaign.pdf), which provides detailed explanations, statistical results, and visualizations of the A/B testing campaign.
 
 ## Dataset Information
 
